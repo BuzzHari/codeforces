@@ -1,3 +1,5 @@
+[![Codeforces Rank](https://img.shields.io/badge/codeforces-1082-lightgrey.svg)](https://shields.io/)
+
 # Solutions to problems on CodeForces.
 
 I shall be uploading the solutions to all the problems here.
