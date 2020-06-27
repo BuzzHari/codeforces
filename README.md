@@ -11,5 +11,5 @@ Codeforces rank as on 26th-June-2020: 1082
 
 ## Notes on the problem solved.
 
-1A: Easy-peasy.
-1B: Took way too much time for this, around 2 hours. Simple math problem. Really rusty.
+* 1A: Easy-peasy.
+* 1B: Took way too much time for this, around 2 hours. Simple math problem. Really rusty.
