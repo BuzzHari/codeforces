@@ -13,3 +13,4 @@ Codeforces rank as on 26th-June-2020: 1082
 
 * 1A: Easy-peasy.
 * 1B: Took way too much time for this, around 2 hours. Simple math problem. Really rusty.
+* 1C: Geometery problem, finding area of n-sided polygon with 3 vertices given. Also, refer this problem for apporx gcd for floats.
